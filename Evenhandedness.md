@@ -7,4 +7,4 @@ Hence, with this project, I trained a corpus using IMF language, and performed s
 
 Unfortunately, sentiment analysis could not be performed because the data has to be labeled...
 
-The code is <a href="https://github.com/carlaint/IMF-Text-Mining-Projects/blob/master/IMF%20Evenhandedness%20Text%20Analytics.ipynb"> here</a>
+The code is viewable<a href="https://github.com/carlaint/IMF-Text-Mining-Projects/blob/master/IMF%20Evenhandedness%20Text%20Analytics.ipynb">here.</a>
